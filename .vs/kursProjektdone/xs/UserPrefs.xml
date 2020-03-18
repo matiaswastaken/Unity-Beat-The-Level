@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{09940ACF-6F50-5429-48C6-1EB11AA6109E}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/walkingBehaviour.cs">
+    <Files>
+      <File FileName="Assets/scripts/cameraFollow.cs" Line="11" Column="3" />
+      <File FileName="Assets/scripts/CoinCounter.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/walkingBehaviour.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
